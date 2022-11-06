@@ -1,0 +1,23 @@
+{
+    "_meta": {
+        "internalCopies": ["item"]
+    },
+    "item": [
+        {
+            "name": "Mortal Blade",
+            "source": "Aurem",
+            "page": 1,
+            "rarity": "legendary",
+            "reqAttune": "by a fighter",
+            "reqAttuneTags": [
+                {
+                    "class": "fighter|phb"
+                }
+            ],
+            "wondrous": true,
+            "bonusSpellAttack": "+2",
+            "bonusSpellSaveDC": "+1",
+            "entries": ["The Mortal Blade."]
+        }
+    ]
+}
