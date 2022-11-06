@@ -5,7 +5,7 @@
                 "json": "Aurem",
                 "abbreviation": "AUR",
                 "full": "Aurem",
-                "url": "https://raw.githubusercontent.com/koreanmelon/dnd-aurem-homebrew/main/",
+                "url": "https://raw.githubusercontent.com/koreanmelon/dnd-aurem-homebrew/main/src/aurem.json",
                 "authors": ["koreanmelon"],
                 "convertedBy": ["koreanmelon"]
             }
